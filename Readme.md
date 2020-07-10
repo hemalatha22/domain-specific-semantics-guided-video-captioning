@@ -9,7 +9,7 @@ The code for the paper “Domain-Specific Semantics Guided Approach to Video Cap
 
 ### Getting started
 
-* Resnet-152 and CED Features are provided in the data folder
+* Resnet-152 and C3D Features are provided in the data folder
 * For semantic features we have provided Ground truth from SCN paper. You can train your own MLP to extract features
 * You can evaluate the model using MSCOCO pycocotools
 
