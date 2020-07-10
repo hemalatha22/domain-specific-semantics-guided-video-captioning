@@ -16,6 +16,7 @@ The code for the paper “Domain-Specific Semantics Guided Approach to Video Cap
 
 ## Citation
 Please cite our WACV paper if it helps your research:
+
 @INPROCEEDINGS{Domain_vid_capt_wacv_2020,  
 author={M. {Hemalatha} and C. C. {Sekhar}},  
 booktitle={2020 IEEE Winter Conference on Applications of Computer Vision (WACV)},   
